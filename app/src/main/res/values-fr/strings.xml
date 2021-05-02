@@ -32,7 +32,7 @@
     <string name="briefings">Bulletin</string>
     <string name="daytime">Journée</string>
     <string name="nighttime">Nuit</string>
-    <string name="publish_at">Publié à</string>
+    <string name="publish_at">Actualisé à</string>
     <string name="feels_like">Ressenti</string>
     <string name="follow_system">Par défaut</string><!-- Littéralement "suivre les préférences système" -->
     <string name="background_information">Informations d’arrière-plan</string>
@@ -273,7 +273,7 @@
     <string name="feedback_short_term_precipitation_alert">Précipitations possibles dans les heures à venir.</string>
 
     <string name="feedback_resident_location">Définir en tant que ville de résidence</string>
-    <string name="feedback_resident_location_description">GeometricWeather affichera et masquera automatiquement les villes de résidence selon votre localisation courante.\nFor example, you can set your hometown as a resident city. You can check the weather in your hometown while you are traveling. When you get home, the weather in your hometown will be hidden and replaced by the weather for your current location.</string>
+    <string name="feedback_resident_location_description">GeometricWeather affichera et masquera automatiquement les villes de résidence selon votre localisation actuelle.\nFor example, you can set your hometown as a resident city. You can check the weather in your hometown while you are traveling. When you get home, the weather in your hometown will be hidden and replaced by the weather for your current location.</string>
 
     <string name="feedback_click_to_get_more">Appuyez pour en voir plus…</string>
     <string name="feedback_click_again_to_exit">Appuyez à nouveau pour quitter</string>
@@ -295,7 +295,7 @@
     <string name="content_des_moonset">Coucher de lune à $</string> <!-- $ = time. -->
     <string name="content_des_no_precipitation">Aucune précipitation</string>
     <string name="content_des_minutely_precipitation">Précipitationss entre $1 et $2</string> <!-- $1 = start time, $2 = end time. -->
-    <string name="content_des_add_current_location">Ajouter la position courante</string>
+    <string name="content_des_add_current_location">Ajouter la position actuelle</string>
     <string name="content_des_drag_flag">Maintenez puis déplacer les éléments de la liste pour les ordonner</string>
     <string name="content_des_delete_flag">Supprimer cet élément</string>
     <string name="content_des_swipe_left_to_delete">Vous pouvez glisser vers la gauche pour supprimer cet élément</string>
